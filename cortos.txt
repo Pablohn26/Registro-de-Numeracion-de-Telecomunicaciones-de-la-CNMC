@@ -1,0 +1,243 @@
+1002#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Asistencia técnica#26/07/2007#Asignado
+1004#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL# #18/02/2010#Compartido
+1004#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#01/02/2007#Asignado
+1015#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#05/12/2016#Asignado
+104000#BVOX WORLD, S.L.#Código de Selección de Operador#13/04/2005#Asignado
+104001#JYCTEL ESPAÑA, S.L.#Código de Selección de Operador#13/02/2007#Asignado
+104004#INTERNET GLOBAL BUSINESS, S.L.#Código de Selección de Operador#02/10/2006#Asignado
+104005#GREEN SERVICIOS 2007, S.L.#Código de Selección de Operador#10/11/2015#Asignado
+104007#AMERICATEL COMMUNICATIONS, S.L.#Código de Selección de Operador#26/09/2007#Asignado
+104010#VOZTELECOM OIGAA360, S.A.#Código de Selección de Operador#14/12/2010#Asignado
+104015#ADRITEL CLOUD, S.L.#Código de Selección de Operador#10/11/2015#Asignado
+104018#TELCOM BUSINESS SOLUTIONS, S.L.#Código de Selección de Operador#26/03/2009#Asignado
+104020#CONTACTA SERVEIS AVANÇATS, S.L.#Código de Selección de Operador#24/11/2006#Asignado
+104040#SINEASEN, S.L.#Código de Selección de Operador#06/02/2019#Asignado
+104043#ADAM ECOTECH, S.A.#Código de Selección de Operador#11/07/2012#Asignado
+104044#YU PLACE, S.L.#Código de Selección de Operador#14/10/2016#Asignado
+104050#FLASH MEDIA EUROPA, S.L.#Código de Selección de Operador#12/12/2012#Asignado
+104055#INCOTEL SERVICIOS AVANZADOS, S.L.#Código de Selección de Operador#11/12/2006#Asignado
+104069#GESTIÓN DE SERVICIOS EN TELECOMUNICACIONES APLICADAS, S.L. UNIPERSONAL##09/12/2010#Asignado
+104070#INCOTEL INGENIERÍA Y CONSULTORÍA, S.A.#Código de Selección de Operador#06/11/2006#Asignado
+104072#ALISYS DIGITAL, S.L. UNIPERSONAL#Código de Selección de Operador#02/10/2012#Asignado
+104080#ALAI OPERADOR DE TELECOMUNICACIONES, S.L.#Código de Selección de Operador#23/11/2005#Asignado
+104084#COMUNICACIONES 2012, S.L. UNIPERSONAL#Código de Selección de Operador#02/12/2013#Asignado
+104088#GESTIÓN DE SISTEMAS GLOBALES DE TELECOMUNICACIÓN AMUNDO, S.A.#Código de Selección de Operador#17/11/2017#Asignado
+104099#CITELIA, S.A.#Código de Selección de Operador#17/10/2016#Asignado
+1050#VODAFONE ONO, S.A. UNIPERSONAL#Código de Selección de Operador#15/07/2003#Asignado
+1051#BT ESPAÑA COMPAÑÍA DE SERVICIOS GLOBALES DE TELECOMUNICACIONES, S.A. UNIPERSONAL#Código de Selección de Operador#21/01/1999#Asignado
+1052#ORANGE ESPAGNE, S.A. UNIPERSONAL#Código de Selección de Operador#11/03/1999#Asignado
+1053#LEAST COST ROUTING TELECOM, S.L.#Código de Selección de Operador#25/03/2010#Asignado
+1054#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#17/02/2015#Asignado
+1055#GRUPALIA INTERNET, S.A.#Código de Selección de Operador#12/07/2004#Asignado
+10580#ORANGE BUSINESS SPAIN, S.A.#Código de Selección de Operador#22/04/1999#Asignado
+10584#VODAFONE ONO, S.A. UNIPERSONAL#Código de Selección de Operador#02/12/2016#Asignado
+10585#VODAFONE ONO, S.A. UNIPERSONAL#Código de Selección de Operador#09/01/2007#Asignado
+10590#TATA COMMUNICATIONS (SPAIN), S.L.#Código de Selección de Operador#29/05/2008#Asignado
+10595#R CABLE Y TELECABLE TELECOMUNICACIONES, S.A. UNIPERSONAL#Código de Selección de Operador#01/08/2019#Asignado
+10598#PROCONO, S.A.#Código de Selección de Operador#04/05/2000#Asignado
+10599#EUSKALTEL, S.A.#Código de Selección de Operador#25/11/1999#Asignado
+107007#GU2TEL SPAIN, S.L. UNIPERSONAL#Código de Selección de Operador#28/04/2008#Asignado
+107008#NAVARRA DE SERVICIOS Y TECNOLOGÍAS, S.A. UNIPERSONAL#Código de Selección de Operador#22/12/2011#Asignado
+107009#DUOCOM EUROPE, S.L.#Código de Selección de Operador#26/10/2000#Asignado
+107010#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Código de Selección de Operador#31/12/2009#Asignado
+107013#AN CONNECT 05, S.L.#Código de Selección de Operador#14/01/2014#Asignado
+107014#11888 SERVICIO CONSULTA TELEFÓNICA, S.A. UNIPERSONAL#Código de Selección de Operador#10/03/2003#Asignado
+107015#INSTAL MATEL, S.L.#Código de Selección de Operador#26/09/2011#Asignado
+107016#ENA OPERADOR DE TELECOMUNICACIONES, S.L. UNIPERSONAL#Código de Selección de Operador#21/03/2018#Asignado
+107017#VERIZÓN SPAIN, S.L.#Código de Selección de Operador#21/12/1999#Asignado
+107021#ORANGE WEB SERVICES, S.L.#Código de Selección de Operador#09/01/2003#Asignado
+107025#OPERADORA DE TELECOMUNICACIONES OPERA, S.L.#Código de Selección de Operador#28/12/2000#Asignado
+107026#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#02/12/2015#Asignado
+107030#KNET COMUNICACIONES, S.L.#Código de Selección de Operador#18/09/2008#Asignado
+107033#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#21/01/2016#Asignado
+107034#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#21/01/2016#Asignado
+107035#MASMÓVIL IBERCOM, S.A.#Código de Selección de Operador#29/04/2004#Asignado
+107040#PEOPLETEL, S.A.#Código de Selección de Operador#25/11/1999#Asignado
+107044#IDECNET, S.A.#Código de Selección de Operador#27/04/2000#Asignado
+107049#MORE MINUTES COMMUNICATIONS, S.L.#Código de Selección de Operador#07/05/2004#Asignado
+107050#GRUPO PROVEEDOR TECNOLÓGICO UNIVERSAL, S.L.#Código de Selección de Operador#31/07/2012#Asignado
+107054#VOIPING US, S.L.#Código de Selección de Operador#02/10/2012#Asignado
+107065#ORANGE ESPAGNE, S.A. UNIPERSONAL#Código de Selección de Operador#22/10/2008#Asignado
+107066#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#17/02/2015#Asignado
+107069#XTRA TELECOM, S.A.UNIPERSONAL#Código de Selección de Operador#08/11/2000#Asignado
+107071#SYSTEM ONE WORLD COMMUNICATION IBERIA, S.A.#Código de Selección de Operador#23/09/1999#Asignado
+107072#AIRE NETWORKS DEL MEDITERRÁNEO, S.L. UNIPERSONAL#Código de Selección de Operador#20/01/2011#Asignado
+107077#LEAST COST ROUTING TELECOM, S.L.#Código de Selección de Operador#06/06/2002#Asignado
+107080#OCEAN´S NETWORK, S.L.#Código de Selección de Operador#13/07/2010#Asignado
+107085#MARIN TELECOM, S.L. UNIPERSONAL#Código de Selección de Operador#21/04/2005#Asignado
+107092#VETE COMUNICACIONES, S.L.#Código de Selección de Operador#11/02/2008#Asignado
+1071#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Código de Selección de Operador#22/12/1998#Asignado
+1073#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Código de Selección de Operador#31/12/2009#Asignado
+1074#ORANGE ESPAGNE, S.A. UNIPERSONAL#Código de Selección de Operador#10/03/2016#Asignado
+1077#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Código de Selección de Operador#31/12/1999#Asignado
+10789#R CABLE Y TELECABLE TELECOMUNICACIONES, S.A. UNIPERSONAL#Código de Selección de Operador#14/01/1999#Asignado
+10798#ORANGE ESPAGNE, S.A. UNIPERSONAL#Código de Selección de Operador#21/11/2017#Asignado
+10799#VODAFONE ONO, S.A. UNIPERSONAL#Código de Selección de Operador#09/01/2007#Asignado
+11810#ALFA MEDIOS PUBLICITARIOS, S.L.#Consulta telefónica sobre números de abonado#29/05/2020#Asignado
+11811#11811 NUEVA INFORMACIÓN TELEFÓNICA, S.A. UNIPERSONAL#Consulta telefónica sobre números de abonado#11/07/2002#Asignado
+11812#INFORMACIÓN TELEFÓNICA NÚMERO 11812, S.L.#Consulta telefónica sobre números de abonado#05/03/2010#Asignado
+11818#ATENCIÓN CLIENTE TELECOM, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#27/04/2017#Asignado
+11820#RENJILLO COMUNICACIONES, S.L.#Consulta telefónica sobre números de abonado#29/05/2020#Asignado
+11822#ATENTO TELESERVICIOS ESPAÑA, S.A. UNIPERSONAL#Consulta telefónica sobre números de abonado#24/10/2011#Asignado
+11825#ATENTO TELESERVICIOS ESPAÑA, S.A. UNIPERSONAL#Consulta telefónica sobre números de abonado#24/10/2011#Asignado
+11827#TELÉFONO DE INFORMACIÓN AL CLIENTE 24 HORAS, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#07/12/2016#Asignado
+11828#TELÉFONO 24 HORAS DE ATENCIÓN AL CLIENTE, S.L.#Consulta telefónica sobre números de abonado#12/03/2020#Asignado
+11829#LITRA TELECOMUNICACIONES, S.L.#Consulta telefónica sobre números de abonado#10/12/2013#Asignado
+11830#ADVANCED TELEPHONE SERVICES, S.A. UNIPERSONAL#Consulta telefónica sobre números de abonado#13/05/2016#Asignado
+11833#DL & L ENGINEERING SERVICES, S.L.#Consulta telefónica sobre números de abonado#03/03/2020#Asignado
+11834#DATA PREMIUM DE VENEZUELA 11, C.A.#Consulta telefónica sobre números de abonado#07/03/2017#Asignado
+11838#DELIMAX CONCEPT, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#02/03/2016#Asignado
+11840#ADDING, SERVICIOS INTELIGENTES, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#17/04/2018#Asignado
+11841#LINOCIO HAGEN, S.L.#Consulta telefónica sobre números de abonado#26/12/2014#Asignado
+11842#11842 INFORMACIÓN TELEFÓNICA, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#13/05/2016#Asignado
+11843#ATENCIÓN TELEFÓNICA AVANZADA, S.L.UNIPERSONAL#Consulta telefónica sobre números de abonado#18/12/2014#Asignado
+11844#LÍNEAS DE RED INTELIGENTE, S.L.#Consulta telefónica sobre números de abonado#29/10/2018#Asignado
+11845#DYNAMIC LESTER, S.L.#Consulta telefónica sobre números de abonado#15/11/2019#Asignado
+11848#LUDICO BUSINESS & ENTERTAINMENT, S.L.#Consulta telefónica sobre números de abonado#30/07/2019#Asignado
+11850#11850 SERVICIO DE INFORMACIÓN TELEFÓNICA, S.L.#Consulta telefónica sobre números de abonado#31/12/2005#Asignado
+11855#UTOPIA THINKING SYSTEMS, S.L.#Consulta telefónica sobre números de abonado#07/07/2017#Asignado
+11857#CLICKQUEA SOLUCIONES, S.L.#Consulta telefónica sobre números de abonado#13/09/2018#Asignado
+11860#ATENCIÓN 24 HORAS, S.L.#Consulta telefónica sobre números de abonado#28/11/2016#Asignado
+11862#ALAI OPERADOR DE TELECOMUNICACIONES, S.L.#Consulta telefónica sobre números de abonado#29/09/2014#Asignado
+11865#KUBBIBERICA TECH, S.L.#Consulta telefónica sobre números de abonado#31/12/2018#Asignado
+11866#TEXOM ACTIVITY, S.L.#Consulta telefónica sobre números de abonado#18/06/2020#Asignado
+11870#11870 INFORMACIÓN EN GENERAL, S.L.#Consulta telefónica sobre números de abonado#23/01/2018#Asignado
+11875#YORTEK CONSULTING, S.L.#Consulta telefónica sobre números de abonado#10/03/2020#Asignado
+11877#REMIRSON INVERSORA, S.L.#Consulta telefónica sobre números de abonado#25/07/2013#Asignado
+11878#TE CONECTAMOS TU LLAMADA, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#24/04/2019#Asignado
+11880#SERVICIO DE ATENCIÓN E INFORMACIÓN, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#07/12/2016#Asignado
+11881#INFORMACIÓN VALIOSA, S.L.#Consulta telefónica sobre números de abonado#27/05/2019#Asignado
+11887#INFORMACIÓN NÚMEROS DE TELÉFONO, S.L. UNIPERSONAL#Consulta telefónica sobre números de abonado#22/07/2015#Asignado
+11888#11888 SERVICIO CONSULTA TELEFÓNICA, S.A. UNIPERSONAL#Consulta telefónica sobre números de abonado#31/12/2003#Asignado
+11889#PLENO APOGEO, S.L.#Consulta telefónica sobre números de abonado#17/06/2019#Asignado
+11890#LAVINIA DIRECTORSHIP, S.L.#Consulta telefónica sobre números de abonado#27/08/2019#Asignado
+11891#IN4YOU SIGLO XXI, S.L. UNIPERSONAL##30/06/2014#Asignado
+11892#TRIGRAD ATENCIÓN TELEFÓNICA, S.L.#Consulta telefónica sobre números de abonado#08/09/2014#Asignado
+11895#PROMO MEGASTORE TRADING COMPANY, S.L.#Consulta telefónica sobre números de abonado#21/04/2020#Asignado
+11898#ATENCIÓN AL CLIENTE 24 HORAS, S.L.#Consulta telefónica sobre números de abonado#10/10/2019#Asignado
+11899#SERVICIO TELEFÓNICO PARA EL CIUDADANO, S.L.#Consulta telefónica sobre números de abonado#09/05/2013#Asignado
+1400#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1401#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1402#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1403#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1404#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#12/12/2008#Asignado
+1406#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#27/04/2010#Asignado
+1407#BT GLOBAL ICT BUSINESS SPAIN, S.L. UNIPERSONAL#Asistencia técnica#07/05/2020#Asignado
+1410#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#02/06/2005#Asignado
+1411#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#13/01/2000#Asignado
+1412#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/09/1998#Asignado
+1413#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/09/1998#Asignado
+1414#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/09/1998#Asignado
+1415#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Servicio especial: Datáfono#17/01/2005#Asignado
+1420#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#23/02/2005#Asignado
+1421#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#18/04/2005#Asignado
+1423#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#12/12/2008#Asignado
+1424#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Información y atención a clientes#21/01/1999#Asignado
+1425#BT GLOBAL ICT BUSINESS SPAIN, S.L. UNIPERSONAL#Información y atención a clientes#07/05/2020#Asignado
+1430#BT ESPAÑA COMPAÑÍA DE SERVICIOS GLOBALES DE TELECOMUNICACIONES, S.A. UNIPERSONAL#Servicio especial: Datáfono#18/12/2003#Asignado
+1431#COLT TECHNOLOGY SERVICES, S.A. UNIPERSONAL#Servicio especial: Datáfono#27/04/2010#Asignado
+1440#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Asistencia técnica#24/09/1998#Asignado
+1441#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#24/09/1998#Asignado
+1442#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#21/12/1999#Asignado
+1443#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#24/09/1998#Asignado
+1444#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#24/09/1998#Asignado
+1445#R CABLE Y TELECABLE TELECOMUNICACIONES, S.A. UNIPERSONAL#Información y atención a clientes#04/03/1999#Asignado
+1446#R CABLE Y TELECABLE TELECOMUNICACIONES, S.A. UNIPERSONAL#Información y atención a clientes#04/03/1999#Asignado
+1449#R CABLE Y TELECABLE TELECOMUNICACIONES, S.A. UNIPERSONAL#Información y atención a clientes#04/03/1999#Asignado
+1450#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#02/12/2016#Asignado
+1451#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#02/12/2016#Asignado
+1456#VODAFONE ENABLER ESPAÑA, S.L.#Información y atención a clientes#03/10/2014#Asignado
+1470#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#30/10/2006#Asignado
+1471#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#30/10/2006#Asignado
+1472#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#30/10/2006#Asignado
+1473#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#30/10/2006#Asignado
+1474#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#30/10/2006#Asignado
+1478#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#21/10/2010#Asignado
+1485#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#25/03/1999#Asignado
+1486#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#25/03/1999#Asignado
+1488#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL#Asistencia técnica#01/07/2004#Asignado
+1489#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#25/03/1999#Asignado
+1490#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2020#Asignado
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 5
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 4
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 3
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 2
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 1
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 0
+1492#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#19/12/2019#Asignado
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 6
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 9
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 8
+1492#BILLING FINANCIAL ESPAÑA, S.L. UNIPERSONAL# #19/12/2019#Subasignado 7
+1494#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2020#Asignado
+1495#XTRA TELECOM, S.A.UNIPERSONAL#Información y atención a clientes#17/02/2015#Asignado
+1496#XTRA TELECOM, S.A.UNIPERSONAL#Información y atención a clientes#17/02/2015#Asignado
+1497#XTRA TELECOM, S.A.UNIPERSONAL#Asistencia técnica#17/02/2015#Asignado
+1498#XTRA TELECOM, S.A.UNIPERSONAL#Información y atención a clientes#17/02/2015#Asignado
+1499#XTRA TELECOM, S.A.UNIPERSONAL#Servicio de tarjetas#17/02/2015#Asignado
+1500#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#02/06/2005#Asignado
+1502#VODAFONE ONO, S.A. UNIPERSONAL#Servicio especial: Datáfono#10/07/2003#Asignado
+1503#VODAFONE ONO, S.A. UNIPERSONAL#Servicio especial: Datáfono#23/10/2006#Asignado
+1506#DIALOGA SERVICIOS INTERACTIVOS, S.A.#Servicio especial: Datáfono#21/06/2012#Asignado
+1510#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2016#Asignado
+1511#EUSKALTEL, S.A.#Información y atención a clientes#15/11/2019#Asignado
+1515#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#01/03/2016#Asignado
+1515#REPÚBLICA DE COMUNICACIONES MÓVILES, S.L.# #01/03/2016#Subasignado
+1516#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#22/10/2008#Asignado
+1533#EUSKALTEL, S.A.#Información y atención a clientes#17/04/2020#Asignado
+1550#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Servicio de tarjetas#31/12/2009#Asignado
+1551#TELEFÓNICA MÓVILES ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#24/04/2018#Asignado
+1551#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL# #24/04/2018#Compartido
+1552#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#31/12/2009#Asignado
+1554#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Servicio especial: Datáfono#31/12/2009#Asignado
+1555#EUSKALTEL, S.A.#Información y atención a clientes#21/11/2018#Asignado
+1565#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2016#Asignado
+1566#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2016#Asignado
+1567#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2016#Asignado
+1568#ORANGE ESPAGNE, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2016#Asignado
+1569#ORANGE ESPAGNE, S.A. UNIPERSONAL#Servicio de tarjetas#10/03/2016#Asignado
+1570#TATA COMMUNICATIONS (SPAIN), S.L.#Información y atención a clientes#29/05/2008#Asignado
+1571#TATA COMMUNICATIONS (SPAIN), S.L.#Información y atención a clientes#29/05/2008#Asignado
+1590#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1591#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1592#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1593#VODAFONE ONO, S.A. UNIPERSONAL#Asistencia técnica#09/01/2007#Asignado
+1594#VODAFONE ONO, S.A. UNIPERSONAL#Información y atención a clientes#09/01/2007#Asignado
+1616#LYCAMOBILE, S.L. UNIPERSONAL#Información y atención a clientes#22/03/2016#Asignado
+1617#LYCAMOBILE, S.L. UNIPERSONAL#Información y atención a clientes#22/03/2016#Asignado
+1624#ORANGE ESPAGNE, S.A. UNIPERSONAL#Servicio especial: Datáfono#10/03/2016#Asignado
+1626#ORANGE ESPAGNE, S.A. UNIPERSONAL#Servicio especial: Datáfono#10/03/2016#Asignado
+1636#PEOPLETEL, S.A.#Servicio de tarjetas#28/09/2000#Asignado
+1644#ORANGE ESPAÑA VIRTUAL, S.L. UNIPERSONAL#Información y atención a clientes#01/10/2007#Asignado
+1645#ORANGE ESPAÑA VIRTUAL, S.L. UNIPERSONAL#Información y atención a clientes#09/10/2007#Asignado
+1650#PROCONO, S.A.#Información y atención a clientes#22/06/2000#Asignado
+1661#ZINNIA TELECOMUNICACIONES, S.L. UNIPERSONAL#Información y atención a clientes#22/02/2018#Asignado
+1699#SOLUCIONES CORPORATIVAS IP, S.L. UNIPERSONAL#Información y atención a clientes#14/09/2018#Asignado
+1700#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#05/09/2017#Asignado
+1702#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#31/12/2009#Asignado
+1703#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Servicio especial: Datáfono#31/12/2009#Asignado
+1704#VODAFONE ESPAÑA, S.A. UNIPERSONAL#Información y atención a clientes#31/12/2009#Asignado
+1705#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#28/12/2000#Asignado
+1706#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#28/12/2000#Asignado
+1707#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#28/12/2000#Asignado
+1708#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#28/12/2000#Asignado
+1709#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#22/03/2001#Asignado
+1710#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#29/02/2016#Asignado
+1711#ALTA TECNOLOGIA EN COMUNICACIONS, S.L.#Información y atención a clientes#24/10/2016#Asignado
+1713#XTRA TELECOM, S.A.UNIPERSONAL#Información y atención a clientes#08/05/2018#Asignado
+1714#ORANGE ESPAGNE, S.A. UNIPERSONAL#Servicio especial: Datáfono#10/03/2016#Asignado
+1715#ORANGE ESPAGNE, S.A. UNIPERSONAL#Servicio especial: Datáfono#10/03/2016#Asignado
+1717#EUSKALTEL, S.A.#Información y atención a clientes#29/07/2003#Asignado
+1720#TRANSACTION NETWORK SERVICES, S.A.#Servicio especial: Datáfono#27/02/2007#Asignado
+1721#TRANSACTION NETWORK SERVICES, S.A.#Servicio especial: Datáfono#18/05/2004#Asignado
+1722#TRANSACTION NETWORK SERVICES, S.A.#Servicio especial: Datáfono#21/05/2010#Asignado
+1726#XTRA TELECOM, S.A.UNIPERSONAL#Información y atención a clientes#02/12/2015#Asignado
+1727#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#29/02/2016#Asignado
+1744#EUSKALTEL, S.A.#Información y atención a clientes#16/04/2019#Asignado
+1750#XFERA MÓVILES, S.A. UNIPERSONAL#Información y atención a clientes#10/03/2020#Asignado
+1770#OCEAN´S NETWORK, S.L.#Información y atención a clientes#14/01/2014#Asignado
+1771#EUSKALTEL, S.A.#Información y atención a clientes#06/02/2008#Asignado
+1774#AIRE NETWORKS DEL MEDITERRÁNEO, S.L. UNIPERSONAL#Información y atención a clientes#23/12/2008#Asignado
+1777#VODAFONE ENABLER ESPAÑA, S.L.#Información y atención a clientes#08/04/2019#Asignado
+5000#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Servicio de Red Privada Virtual#25/01/2007#Asignado
+50999#TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL#Servicio de Red Privada Virtual#20/04/2007#Asignado
